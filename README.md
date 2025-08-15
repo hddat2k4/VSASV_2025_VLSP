@@ -1,5 +1,8 @@
 # Brosch at Vietnamese Spoofing-Aware Speaker Verification (VSASV) Challenge 2025
 
+**📢 The latest updates have been completed locally and will be pushed to this repository soon.**
+![status](https://img.shields.io/badge/status-updating-blue)
+
 This repository contains Brosch Team's work for the VSASV Challenge 2025, where we achieved 4th place in the final leaderboard. The challenge focuses on Spoofing-Aware Speaker Verification (SASV), which requires systems to verify a speaker's identity while being robust against spoofing attack.
 
 ## Approach
