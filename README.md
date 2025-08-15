@@ -1,6 +1,6 @@
-# Vietnamese Spoofing-Aware Speaker Verification (VSASV) Challenge 2025
+# Brosch Vietnamese Spoofing-Aware Speaker Verification (VSASV) Challenge 2025
 
-This repository contains my work for the VSASV Challenge 2025, where I achieved 4th place in the final leaderboard. The challenge focuses on Spoofing-Aware Speaker Verification (SASV), which requires systems to verify a speaker's identity while being robust against spoofing attacks such as replay, TTS, and voice conversion.
+This repository contains Brosch Team's work for the VSASV Challenge 2025, where we achieved 4th place in the final leaderboard. The challenge focuses on Spoofing-Aware Speaker Verification (SASV), which requires systems to verify a speaker's identity while being robust against spoofing attack.
 
 ## Approach
 
